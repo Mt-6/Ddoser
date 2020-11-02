@@ -7,9 +7,15 @@
 امیدوارم از این اسکریپت لذت ببرید و چنل ما رو در تلگرام دنبال کنید  :)
 <hr> 
 * apt install update 
+
 * apt install upgrade
+
 * apt install python3
+
 * git clone https://github.com/Mt-6/Ddoser.git
+
 * cd Ddoser
+
 * python3 baji.py
+
 <hr> 
